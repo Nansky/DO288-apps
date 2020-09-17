@@ -13,7 +13,7 @@ pipeline {
         //TODO: Customize these variables for your environment
         DEV_PROJECT = "bri2dev2-movies-dev"
         STAGE_PROJECT = "bri2dev2-movies-stage"
-        APP_GIT_URL = "https://github.com/bri2dev2/DO288-apps"
+        APP_GIT_URL = "https://github.com/Nansky/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com/repository/java"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
